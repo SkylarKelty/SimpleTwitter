@@ -1,0 +1,8 @@
+<?php
+global $twitter_config;
+$twitter_config = array(
+	'consumer_key' => "",
+	'consumer_secret' => "",
+	'access_token' => "",
+	'access_secret'  => ""
+);
